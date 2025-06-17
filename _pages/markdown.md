@@ -31,11 +31,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| How to Investigate PCAP's for SOC Analyst          | SOC Automation Lab |
-| Network Analysis (Exfiltration) | SOC Automation Lab|
-| Endpoint Analysis (WordPress)         | SOC Automation Lab|
-| Malware Analysis (RTF Document)      | SOC Automation Lab|
-| Email Analysis (Phishing)                  | SOC Automation Lab|
+| How to Investigate PCAP's for SOC Analyst          | <a href="https://google.com">Detection Lab</a>| 
+| Network Analysis (Exfiltration) | SOC Automation Lab
+| Endpoint Analysis (WordPress)         | SOC Automation Lab
+| Malware Analysis (RTF Document)      | SOC Automation Lab
+| Email Analysis (Phishing)                  | SOC Automation Lab
 | Brute Force (SSH) | SOC Automation Lab| SOC Automation Lab
 | Network Analysis (Malware) | SOC Automation Lab
 | Endpoint Analysis (HackTheBox) | SOC Automation Lab

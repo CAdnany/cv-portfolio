@@ -9,24 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-
-
 Work experience
 ======
-Adnan Ali Yussuf  Email Linkedin Github
-Toronto, ON 587-436-4223
 
-
-Professional Summary
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-Certification
-CompTIA Security+
-ISC2 Certified in Cybersecurity (CC)
-Splunk Core Certified Power User
 Professional Experience & Development Projects
 Aspiring Cybersecurity Analyst & Content Creator | Adnan.io
 January 2023 – Present

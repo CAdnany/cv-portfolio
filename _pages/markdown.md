@@ -48,7 +48,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-Suricata-AA0000?style=for-the-badge&logo=suricata&logoColor=white" />
   <img src="https://img.shields.io/badge/-Zeek-FF9933?style=for-the-badge&logo=zeek&logoColor=white" />
-
 </div>
 
 ## Endpoint
@@ -56,7 +55,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
   <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=velociraptor&logoColor=white" />
-
 </div>
 
 ## SIEM
@@ -64,7 +62,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
   <img src="https://img.shields.io/badge/-Microsoft_Sentinel-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-
 </div>
 
 ## Certificates

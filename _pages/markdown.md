@@ -36,7 +36,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Endpoint Analysis (WordPress)         | SOC Automation Lab
 | Malware Analysis (RTF Document)      | SOC Automation Lab
 | Email Analysis (Phishing)                  | SOC Automation Lab
-| Brute Force (SSH) | SOC Automation Lab| SOC Automation Lab
+| Brute Force (SSH) | SOC Automation Lab | 
 | Network Analysis (Malware) | SOC Automation Lab
 | Endpoint Analysis (HackTheBox) | SOC Automation Lab
 | Unit42 (Sysmon) | SOC Automation Lab

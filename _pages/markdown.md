@@ -42,36 +42,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Unit42 (Sysmon) | SOC Automation Lab
 |Logjammer (Windows Event Logs) | SOC Automation Lab
 
-
-### Tools
-
-
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=velociraptor&logoColor=white" />
-
-</div>
-
-### Certifications
-</div>
-<img src="https://img.shields.io/badge/-Security%2B-E62A2A?style=for-the-badge&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/-Splunk_Power_User-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/-ISC2_CC-006B5E?style=for-the-badge&logo=ISC2&logoColor=white" />
-</div>
-
-

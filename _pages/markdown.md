@@ -20,32 +20,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Development Labs:
 
-|   Skill                                         | Associated Project       |
-|-----------------------------------------------|----------------------------|
-| How to Investigate PCAP's for SOC Analyst          | <a href="https://google.com">Detection Lab</a>| 
-| Network Analysis (Exfiltration) | SOC Automation Lab
-| Endpoint Analysis (WordPress)         | SOC Automation Lab
-| Malware Analysis (RTF Document)      | SOC Automation Lab
-| Email Analysis (Phishing)                  | SOC Automation Lab
-| Brute Force (SSH) | SOC Automation Lab | 
-| Network Analysis (Malware) | SOC Automation Lab
-| Endpoint Analysis (HackTheBox) | SOC Automation Lab
-| Unit42 (Sysmon) | SOC Automation Lab
-|Logjammer (Windows Event Logs) | SOC Automation Lab
 
 ## Network
 

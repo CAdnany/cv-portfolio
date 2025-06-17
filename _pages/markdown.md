@@ -62,14 +62,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### SIEM
 <div>
-  <img src="https://img.shields.io/badge/-Security%2B-E62A2A?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ISC2_CC-006B5E?style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=velociraptor&logoColor=white" />
+
 </div>
 
 ### Certifications
 </div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20Power%20User-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-007ACC?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-E62A2A?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk_Power_User-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISC2_CC-006B5E?style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
+
+

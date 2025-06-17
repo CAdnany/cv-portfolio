@@ -43,7 +43,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |Logjammer (Windows Event Logs) | SOC Automation Lab
 
 
-## Tools
+### Tools
 
 
 
@@ -73,8 +73,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20Power%20User-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-007ACC?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
-
-<!--
-**CAdnany/Cadnany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-

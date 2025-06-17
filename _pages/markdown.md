@@ -42,3 +42,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Unit42 (Sysmon) | SOC Automation Lab
 |Logjammer (Windows Event Logs) | SOC Automation Lab
 
+<div>
+  <img src="https://img.shields.io/badge/-Security%2B-E62A2A?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk_Power_User-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ISC2_CC-006B5E?style=for-the-badge&logo=ISC2&logoColor=white" />
+
+</div>
+

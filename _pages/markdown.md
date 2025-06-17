@@ -17,6 +17,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Featured Projects
 
+|   Skill                                         | Associated Project       |
+|-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection |SOC Automation Lab |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -26,8 +28,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Development & Labs:
 
-
-|   Skill                                         | Associated Project         |
+|   Skill                                         | Associated Project       |
 |-----------------------------------------------|----------------------------|
 | How to Investigate PCAP's for SOC Analyst          | <a href="https://google.com">Detection Lab</a>| 
 | Network Analysis (Exfiltration) | SOC Automation Lab

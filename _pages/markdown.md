@@ -19,12 +19,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Walk-Through: How to Design & Configure A Vulnerability Scan with Tenable Nessus         | <a href="https://google.com">Detection Lab</a>|
+| Walk-Through: How To Read Wireshark Logs for Network Traffic | |
+| Identifying Brute Force Attack with TCPDump        | |
+| Applying Filters to SQL Queries     ||
+| Automate Lists with Python                  ||
+| File Permissions in Linux | SOC Automation Lab|
 
 ## Development Labs
 
